@@ -1,0 +1,1 @@
+This program trains a neural network model to classify the species of the Iris flower dataset using the Multi-Layer Perceptron (MLP) classifier. The program preprocesses the data, scales the features, trains the model, and then evaluates its performance using accuracy and a loss curve.
